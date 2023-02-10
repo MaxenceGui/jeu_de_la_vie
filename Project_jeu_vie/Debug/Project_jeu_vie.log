@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\user\Documents\cégep\Session_1\420-C21-In (Programmation II)\Travail_final_Jeu_Vie\Project_jeu_vie\Project_jeu_vie\Main.cpp(7,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+C:\Users\user\Documents\cégep\Session_1\420-C21-In (Programmation II)\Travail_final_Jeu_Vie\Project_jeu_vie\Project_jeu_vie\Main.cpp(8,6): warning C4101: 'm' : variable locale non référencée
+C:\Users\user\Documents\cégep\Session_1\420-C21-In (Programmation II)\Travail_final_Jeu_Vie\Project_jeu_vie\Project_jeu_vie\Main.cpp(8,9): warning C4101: 'n' : variable locale non référencée
+  Source.cpp
+  Génération de code en cours...
+C:\Users\user\Documents\cégep\Session_1\420-C21-In (Programmation II)\Travail_final_Jeu_Vie\Project_jeu_vie\Project_jeu_vie\Source.cpp(133): warning C4715: 'Lire' : les chemins de contrôle ne retournent pas tous une valeur
+  Project_jeu_vie.vcxproj -> C:\Users\user\Documents\cégep\Session_1\420-C21-In (Programmation II)\Travail_final_Jeu_Vie\Project_jeu_vie\Debug\Project_jeu_vie.exe
